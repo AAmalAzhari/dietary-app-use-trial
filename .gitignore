@@ -1,0 +1,21 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/*
+!data/README.md
+!data/.gitkeep
+*.sav
+*.csv
+*.xlsx
+*.rds
+
+# R / Quarto
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.quarto/
+*_cache/
+*_files/
+.DS_Store
