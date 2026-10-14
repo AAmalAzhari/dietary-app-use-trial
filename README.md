@@ -4,6 +4,10 @@
 A reproducible analysis of a two-arm study evaluating whether a **dietary advice app** is
 associated with lower body weight over 3 months (N = 895; No app vs On app).
 
+
+**[View the rendered report](https://aamalazhari.github.io/dietary-app-use-trial/)**
+
+
 ## Project Overview
 
 The report takes raw trial data through cleaning, validation and seven hypothesis-driven analyses.
